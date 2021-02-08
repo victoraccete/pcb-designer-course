@@ -196,25 +196,29 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for Free Documents\BOM\28Pins BOM Purchasing-28Pins_Project_V1I1.xls
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for 28Pins_Project_V1I1\Design Rule Check - 28Pins_Project_V1I1_PCB.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=VersionRevision
-Value=V1I1
+Name=Company
+Value=2015 FEDELEVEL Academy
 
 [Parameter2]
-Name=Title
-Value=28Pins
+Name=NotFitted
+Value=NF
 
 [Parameter3]
 Name=Project
 Value=28Pins
 
 [Parameter4]
-Name=NotFitted
-Value=NF
+Name=Title
+Value=28Pins
 
 [Parameter5]
-Name=Company
-Value=2015 FEDELEVEL Academy
+Name=VersionRevision
+Value=V1I1
 
 [Configuration1]
 Name=Sources
