@@ -212,11 +212,11 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=6
 Variation1=Designator=Y1|UniqueId=\EABBEDST|Kind=2|AlternatePart=ABM7-10.000MHZ-D2Y-T|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Victor\Documents\Altium\28Pins_Project_V1I1\28Pins_Project_V1I1.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ABM7-10.000MHZ-D2Y-T|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=28Pins_Project_V1I1.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=ABM7_v1_1_BIG|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Case/Package|VariantValue=SMD/SMT
+ParamVariation1=ParameterName=Comment|VariantValue=ABM7-10.000MHZ-D2Y-T
 ParamDesignator1=Y1
-ParamVariation2=ParameterName=Category|VariantValue=Crystals
+ParamVariation2=ParameterName=Case/Package|VariantValue=SMD/SMT
 ParamDesignator2=Y1
-ParamVariation3=ParameterName=Comment|VariantValue=ABM7-10.000MHZ-D2Y-T
+ParamVariation3=ParameterName=Category|VariantValue=Crystals
 ParamDesignator3=Y1
 ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator4=Y1
@@ -273,11 +273,11 @@ ParamDesignator29=Y1
 ParamVariation30=ParameterName=Supplier Part Number 1|VariantValue=535-9833-1-ND
 ParamDesignator30=Y1
 Variation2=Designator=Y2|UniqueId=\HUALRWVY|Kind=2|AlternatePart=ABM7-8.000MHZ-D2Y-T|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Victor\Documents\Altium\28Pins_Project_V1I1\28Pins_Project_V1I1.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ABM7-8.000MHZ-D2Y-T|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=28Pins_Project_V1I1.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=ABM7_v1_1_BIG|AltLibLink_IsSameFootprint=True
-ParamVariation31=ParameterName=Case/Package|VariantValue=CSMD
+ParamVariation31=ParameterName=Comment|VariantValue=ABM7-8.000MHZ-D2Y-T
 ParamDesignator31=Y2
-ParamVariation32=ParameterName=Category|VariantValue=Crystals
+ParamVariation32=ParameterName=Case/Package|VariantValue=CSMD
 ParamDesignator32=Y2
-ParamVariation33=ParameterName=Comment|VariantValue=ABM7-8.000MHZ-D2Y-T
+ParamVariation33=ParameterName=Category|VariantValue=Crystals
 ParamDesignator33=Y2
 ParamVariation34=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator34=Y2
