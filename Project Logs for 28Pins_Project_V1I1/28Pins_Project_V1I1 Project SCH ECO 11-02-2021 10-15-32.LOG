@@ -1,9 +1,0 @@
-Add Pin To Net: Pin=SW1-1 Old Net=NetSW1_1 New Net=BUTTON_RESETn
-Add Pin To Net: Pin=SW1-2 Old Net=NetSW1_2 New Net=BUTTON_RESETn
-Add Pin To Net: Pin=SW2-1 Old Net=NetSW2_1 New Net=USER_BUTTON
-Add Pin To Net: Pin=SW2-2 Old Net=NetSW2_2 New Net=USER_BUTTON
-Change Net Color : Net Name= +3V3 Old Net Color=Default New Net Color=RGB(158, 161, 117)
-Change Net Color : Net Name= +5V/3V3 Old Net Color=Default New Net Color=RGB(0, 156, 202)
-Change Net Color : Net Name= +5V Old Net Color=Default New Net Color=RGB(253, 131, 0)
-Change Net Color : Net Name= GND Old Net Color=Default New Net Color=RGB(0, 0, 191)
-Change Pin Designator/Name:  Old Designator=C34-2 Old Name=2 New Designator =1 New Name=1
