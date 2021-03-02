@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for 28Pins_Project_V1I1
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -390,24 +390,24 @@ DocumentPath=Project Outputs for 28Pins_Project_V1I1\Design Rule Check - 28Pins_
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Company
-Value=2015 FEDELEVEL Academy
+Name=VersionRevision
+Value=V1I1
 
 [Parameter2]
-Name=NotFitted
-Value=NF
+Name=Title
+Value=28Pins
 
 [Parameter3]
 Name=Project
 Value=28Pins
 
 [Parameter4]
-Name=Title
-Value=28Pins
+Name=NotFitted
+Value=NF
 
 [Parameter5]
-Name=VersionRevision
-Value=V1I1
+Name=Company
+Value=2015 FEDELEVEL Academy
 
 [Configuration1]
 Name=Sources
@@ -418,6 +418,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for 28Pins_Project_V1I1
 
 [OutputGroup1]
 Name=Netlist Outputs
